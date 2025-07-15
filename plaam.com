@@ -31,7 +31,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
     <meta name="language" content="Indonesia" />
     <meta name="author" content="Yestogel" />
     <!-- Open Graph (untuk sosial media preview) -->
-    <meta name="og:url" content="https://plataforma.plaam.com/" />
+    <meta name="og:url" content="https://plaam.com/" />
     <meta name="og:title" content="Prediksi Angka Jitu Situs Bandar Besar Terpercaya | Keluaran Togel HK Malam Ini Dari Yestogel" />
     <meta name="og:type" content="product" />
     <meta name="og:description" content="Situs amanah bandar besar terpercaya dengan lisensi ijin penyedia pasar togel resmi yang memberikan hadiah dan bonus yang fantastis juga dengan modal kecil bisa mendapatkan hadiah utama yang besar."/>
@@ -39,7 +39,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
     <meta name="google-site-verification" content="-7CICDccpFNFFRNHTZL1Vl-NLQMycVYS3dJy1MRdRmE" />
     <link rel="icon" type="image/x-icon" href="https://cdn-amp-bbs.com/img/img3.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://plataforma.plaam.com/" />
+    <link rel="canonical" href="https://plaam.com/" />
     <link rel="amphtml" href="https://matanauniv.ac.id/jaadoo/odet4/" />
     <!-- start preload -->
     <link rel="preload" href="https://cdn-amp-bbs.com/img/2025070506.gif" as="image/gif" />
@@ -776,14 +776,14 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
         "description": "Pelajari pola angka dengan pendekatan statistik dan perbandingan data historis yang disediakan oleh tim profesional Yestogel.
 
 ",
-        "url": "https://plataforma.plaam.com/",
+        "url": "https://plaam.com/",
         "brand": {
           "@type": "Brand",
           "name": "Yestogel"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://plataforma.plaam.com/",
+          "url": "https://plaam.com/",
           "price": "777",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-01-23",
@@ -791,7 +791,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://plataforma.plaam.com/",
+            "merchantReturnLink": "https://plaam.com/",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -867,27 +867,27 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
             "@type": "ListItem", 
             "position": 1, 
             "name": "DEMO PRAGMATIC",
-            "item": "https://plataforma.plaam.com/"  
+            "item": "https://plaam.com/"  
           },{
             "@type": "ListItem", 
             "position": 2, 
             "name": "DEMO SLOT 4D",
-            "item": "https://plataforma.plaam.com/"  
+            "item": "https://plaam.com/"  
           },{
             "@type": "ListItem", 
             "position": 3, 
             "name": "DEMO SLOT & TOGEL",
-            "item": "https://plataforma.plaam.com/"  
+            "item": "https://plaam.com/"  
           },{
             "@type": "ListItem", 
             "position": 4, 
             "name": "DEMO TOGEL 4D",
-            "item": "https://plataforma.plaam.com/"  
+            "item": "https://plaam.com/"  
           },{
             "@type": "ListItem", 
             "position": 5, 
             "name": "TESTIMONI",
-            "item": "https://plataforma.plaam.com/"  
+            "item": "https://plaam.com/"  
           }]
         }
         </script>
@@ -1017,7 +1017,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </a>
                                 </div>
                                 <div class="top-links-item" id="topActionFeedback">
-                                    <a class="highlight" target="_blank" href="https://plataforma.plaam.com/"
+                                    <a class="highlight" target="_blank" href="https://plaam.com/"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">DEMO PRAGMATIC</a>
                                 </div>
                                 <div class="top-links-item orange" id="topActionDownload"
@@ -1073,10 +1073,10 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://plataforma.plaam.com/" class="store-link">
+                                                        <a href="https://plaam.com/" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://plataforma.plaam.com/" class="store-link">
+                                                        <a href="https://plaam.com/" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -1086,7 +1086,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </div>
                                 </div>
                                 <div class="top-links-item" id="topActionSell">
-                                    <a class="cyan" href="https://plataforma.plaam.com/"
+                                    <a class="cyan" href="https://plaam.com/"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">DEMO SLOT & TOGEL</a>
                                 </div>
                                 <div class="top-links-item" id="topActionCustomCare"
@@ -1229,7 +1229,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                         <div class="lzd-logo-bar">
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
-                                    <a href="https://plataforma.plaam.com/" data-spm="dhome"><img
+                                    <a href="https://plaam.com/" data-spm="dhome"><img
                                             src="https://cdn-amp-bbs.com/img/img3.png"
                                             alt="deposit saldo pragmatic" /></a>
                                 </div>
@@ -1247,7 +1247,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                             <div class="lzd-site-menu-nav-container">
                                                 <div class="lzd-site-menu-nav-category">
-                                                    <a href="https://plataforma.plaam.com/">
+                                                    <a href="https://plaam.com/">
                                                         <span class="lzd-site-menu-nav-category-text">KATEGORI</span>
                                                     </a>
                                                     <div class="lzd-site-menu-nav-menu">
@@ -2564,7 +2564,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                     </div>
                                                 </div>
                                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                                    <a class="lzd-menu-labels-item" href="https://plataforma.plaam.com/">
+                                                    <a class="lzd-menu-labels-item" href="https://plaam.com/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="DEMO TOGEL 4D" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2572,7 +2572,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                                         <span class="lzd-menu-labels-item-text">DEMO TOGEL 4D</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://plataforma.plaam.com/">
+                                                    <a class="lzd-menu-labels-item" href="https://plaam.com/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="TESTIMONI" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2580,7 +2580,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                                         <span class="lzd-menu-labels-item-text">TESTIMONI</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://plataforma.plaam.com/">
+                                                    <a class="lzd-menu-labels-item" href="https://plaam.com/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="DEPOSIT SALDO" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2588,7 +2588,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                                         <span class="lzd-menu-labels-item-text">DEPOSIT SALDO</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://plataforma.plaam.com/">
+                                                    <a class="lzd-menu-labels-item" href="https://plaam.com/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="WITHDRAW" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2602,7 +2602,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://plataforma.plaam.com/" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://plaam.com/" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -2616,7 +2616,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                             <div class="lzd-site-menu-nav-container">
                                 <div class="lzd-site-menu-nav-category">
-                                    <a href="https://plataforma.plaam.com/">
+                                    <a href="https://plaam.com/">
                                         <span class="lzd-site-menu-nav-category-text">KATEGORI</span>
                                     </a>
                                     <div class="lzd-site-menu-nav-menu">
@@ -3705,7 +3705,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </div>
                                 </div>
                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                    <a class="lzd-menu-labels-item" href="https://plataforma.plaam.com/">
+                                    <a class="lzd-menu-labels-item" href="https://plaam.com/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="DEMO TOGEL 4D" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -3713,7 +3713,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                         <span class="lzd-menu-labels-item-text">DEMO TOGEL 4D</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://plataforma.plaam.com/">
+                                    <a class="lzd-menu-labels-item" href="https://plaam.com/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="TESTIMONI" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -3721,7 +3721,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                         <span class="lzd-menu-labels-item-text">TESTIMONI</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://plataforma.plaam.com/">
+                                    <a class="lzd-menu-labels-item" href="https://plaam.com/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="DEPOSIT SALDO" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -3729,7 +3729,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                         <span class="lzd-menu-labels-item-text">DEPOSIT SALDO</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://plataforma.plaam.com/">
+                                    <a class="lzd-menu-labels-item" href="https://plaam.com/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="WITHDRAW" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -4139,7 +4139,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     <span class="pdp-product-brand__name">Merek<!-- -->:<!-- -->
                                     </span>
                                     <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
-                                        target="_self" href="https://plataforma.plaam.com/">Yestogel</a>
+                                        target="_self" href="https://plaam.com/">Yestogel</a>
                                     <div class="pdp-product-brand__divider"></div>
                                 </div>
                             </div>
@@ -4250,7 +4250,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     <div class="seller-container" data-spm="seller">
                                         <div class="seller-name">
                                             <div class="seller-name__wrapper">
-                                                <div class="seller-name__title">2025 <a href="https://plataforma.plaam.com/">@ JD_SQUAD SEO</a> </div>
+                                                <div class="seller-name__title">2025 <a href="https://plaam.com/">@ JD_SQUAD SEO</a> </div>
                                                 <div class="seller-name__detail" data-spm="seller">
                                                     <a
                                                         class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a>
@@ -4996,12 +4996,12 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
 <a href="https://erp.sanskritiias.in/bumn/">Yestogel</a>
 <a href="https://erp.sanskritiias.in/bemn/">Yestogel</a>
 <a href="https://erp.sanskritiias.in/bomn/">Yestogel</a>
-<a href="https://plataforma.plaam.com/bamn/">Yestogel</a>
-<a href="https://plataforma.plaam.com/bimn/">Yestogel</a>
-<a href="https://plataforma.plaam.com/bumn/">Yestogel</a>
-<a href="https://plataforma.plaam.com/bemn/">Yestogel</a>
-<a href="https://plataforma.plaam.com/bomn/">Yestogel</a>
-<a href="https://plataforma.plaam.com/">Yestogel</a>
+<a href="https://plaam.com/bamn/">Yestogel</a>
+<a href="https://plaam.com/bimn/">Yestogel</a>
+<a href="https://plaam.com/bumn/">Yestogel</a>
+<a href="https://plaam.com/bemn/">Yestogel</a>
+<a href="https://plaam.com/bomn/">Yestogel</a>
+<a href="https://plaam.com/">Yestogel</a>
 <a href="https://soda88.impulsoesg.com/bamn/">Yestogel</a>
 <a href="http://dsobuldhana.co.in/">Yestogel</a>
 <a href="http://dsobuldhana.co.in/bamn/">Yestogel</a>
