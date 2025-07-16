@@ -31,7 +31,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
     <meta name="language" content="Indonesia" />
     <meta name="author" content="Yestogel" />
     <!-- Open Graph (untuk sosial media preview) -->
-    <meta name="og:url" content="https://masrarasmasvisibles.com/" />
+    <meta name="og:url" content="https://rfh.com.pk/" />
     <meta name="og:title" content="Prediksi Situs Bandar Besar Terpercaya Togel Hongkong Malam Ini Angka Jitu Pools Resmi HK" />
     <meta name="og:type" content="product" />
     <meta name="og:description" content="Situs alternatif pasar togel terpercaya yang memberikan bonus dan hadiah yang fantastis, yestogel juga memiliki banyak pilihan permainan dengan modal kecil bisa menjadi jutaan rupiah. daftar segera dan rayakan kemenagan kamu bersama kawan sehobi."/>
@@ -39,7 +39,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
     <meta name="google-site-verification" content="-7CICDccpFNFFRNHTZL1Vl-NLQMycVYS3dJy1MRdRmE" />
     <link rel="icon" type="image/x-icon" href="https://cdn-amp-bbs.com/img/img3.png" />
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://masrarasmasvisibles.com/" />
+    <link rel="canonical" href="https://rfh.com.pk/" />
     <link rel="amphtml" href="https://matanauniv.ac.id/jaadoo/odet5/" />
     <!-- start preload -->
     <link rel="preload" href="https://cdn-amp-bbs.com/img/2025070506.gif" as="image/gif" />
@@ -776,14 +776,14 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
         "description": "Pelajari pola angka dengan pendekatan statistik dan perbandingan data historis yang disediakan oleh tim profesional Yestogel.
 
 ",
-        "url": "https://masrarasmasvisibles.com/",
+        "url": "https://rfh.com.pk/",
         "brand": {
           "@type": "Brand",
           "name": "Yestogel"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://masrarasmasvisibles.com/",
+          "url": "https://rfh.com.pk/",
           "price": "777",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-01-23",
@@ -791,7 +791,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://masrarasmasvisibles.com/",
+            "merchantReturnLink": "https://rfh.com.pk/",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -867,27 +867,27 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
             "@type": "ListItem", 
             "position": 1, 
             "name": "DEMO PRAGMATIC",
-            "item": "https://masrarasmasvisibles.com/"  
+            "item": "https://rfh.com.pk/"  
           },{
             "@type": "ListItem", 
             "position": 2, 
             "name": "DEMO SLOT 4D",
-            "item": "https://masrarasmasvisibles.com/"  
+            "item": "https://rfh.com.pk/"  
           },{
             "@type": "ListItem", 
             "position": 3, 
             "name": "DEMO SLOT & TOGEL",
-            "item": "https://masrarasmasvisibles.com/"  
+            "item": "https://rfh.com.pk/"  
           },{
             "@type": "ListItem", 
             "position": 4, 
             "name": "DEMO TOGEL 4D",
-            "item": "https://masrarasmasvisibles.com/"  
+            "item": "https://rfh.com.pk/"  
           },{
             "@type": "ListItem", 
             "position": 5, 
             "name": "TESTIMONI",
-            "item": "https://masrarasmasvisibles.com/"  
+            "item": "https://rfh.com.pk/"  
           }]
         }
         </script>
@@ -1017,7 +1017,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </a>
                                 </div>
                                 <div class="top-links-item" id="topActionFeedback">
-                                    <a class="highlight" target="_blank" href="https://masrarasmasvisibles.com/"
+                                    <a class="highlight" target="_blank" href="https://rfh.com.pk/"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">DEMO PRAGMATIC</a>
                                 </div>
                                 <div class="top-links-item orange" id="topActionDownload"
@@ -1073,10 +1073,10 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://masrarasmasvisibles.com/" class="store-link">
+                                                        <a href="https://rfh.com.pk/" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://masrarasmasvisibles.com/" class="store-link">
+                                                        <a href="https://rfh.com.pk/" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -1086,7 +1086,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </div>
                                 </div>
                                 <div class="top-links-item" id="topActionSell">
-                                    <a class="cyan" href="https://masrarasmasvisibles.com/"
+                                    <a class="cyan" href="https://rfh.com.pk/"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">DEMO SLOT & TOGEL</a>
                                 </div>
                                 <div class="top-links-item" id="topActionCustomCare"
@@ -1229,7 +1229,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                         <div class="lzd-logo-bar">
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
-                                    <a href="https://masrarasmasvisibles.com/" data-spm="dhome"><img
+                                    <a href="https://rfh.com.pk/" data-spm="dhome"><img
                                             src="https://cdn-amp-bbs.com/img/img3.png"
                                             alt="deposit saldo pragmatic" /></a>
                                 </div>
@@ -1247,7 +1247,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                             <div class="lzd-site-menu-nav-container">
                                                 <div class="lzd-site-menu-nav-category">
-                                                    <a href="https://masrarasmasvisibles.com/">
+                                                    <a href="https://rfh.com.pk/">
                                                         <span class="lzd-site-menu-nav-category-text">KATEGORI</span>
                                                     </a>
                                                     <div class="lzd-site-menu-nav-menu">
@@ -2564,7 +2564,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                     </div>
                                                 </div>
                                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                                    <a class="lzd-menu-labels-item" href="https://masrarasmasvisibles.com/">
+                                                    <a class="lzd-menu-labels-item" href="https://rfh.com.pk/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="DEMO TOGEL 4D" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2572,7 +2572,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                                         <span class="lzd-menu-labels-item-text">DEMO TOGEL 4D</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://masrarasmasvisibles.com/">
+                                                    <a class="lzd-menu-labels-item" href="https://rfh.com.pk/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="TESTIMONI" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2580,7 +2580,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                                         <span class="lzd-menu-labels-item-text">TESTIMONI</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://masrarasmasvisibles.com/">
+                                                    <a class="lzd-menu-labels-item" href="https://rfh.com.pk/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="DEPOSIT SALDO" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2588,7 +2588,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                                         <span class="lzd-menu-labels-item-text">DEPOSIT SALDO</span>
                                                     </a>
-                                                    <a class="lzd-menu-labels-item" href="https://masrarasmasvisibles.com/">
+                                                    <a class="lzd-menu-labels-item" href="https://rfh.com.pk/">
                                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                             <img alt="WITHDRAW" class="lzd-site-nav-menu-iconfont-img"
                                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -2602,7 +2602,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://masrarasmasvisibles.com/" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://rfh.com.pk/" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -2616,7 +2616,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                             <div class="lzd-site-menu-nav-container">
                                 <div class="lzd-site-menu-nav-category">
-                                    <a href="https://masrarasmasvisibles.com/">
+                                    <a href="https://rfh.com.pk/">
                                         <span class="lzd-site-menu-nav-category-text">KATEGORI</span>
                                     </a>
                                     <div class="lzd-site-menu-nav-menu">
@@ -3705,7 +3705,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     </div>
                                 </div>
                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                    <a class="lzd-menu-labels-item" href="https://masrarasmasvisibles.com/">
+                                    <a class="lzd-menu-labels-item" href="https://rfh.com.pk/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="DEMO TOGEL 4D" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -3713,7 +3713,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                                         <span class="lzd-menu-labels-item-text">DEMO TOGEL 4D</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://masrarasmasvisibles.com/">
+                                    <a class="lzd-menu-labels-item" href="https://rfh.com.pk/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="TESTIMONI" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -3721,7 +3721,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                                         <span class="lzd-menu-labels-item-text">TESTIMONI</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://masrarasmasvisibles.com/">
+                                    <a class="lzd-menu-labels-item" href="https://rfh.com.pk/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="DEPOSIT SALDO" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -3729,7 +3729,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                         <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                                         <span class="lzd-menu-labels-item-text">DEPOSIT SALDO</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://masrarasmasvisibles.com/">
+                                    <a class="lzd-menu-labels-item" href="https://rfh.com.pk/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="WITHDRAW" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://cdn-amp-bbs.com/img/img3.png" />
@@ -4139,7 +4139,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     <span class="pdp-product-brand__name">Merek<!-- -->:<!-- -->
                                     </span>
                                     <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link"
-                                        target="_self" href="https://masrarasmasvisibles.com/">Yestogel</a>
+                                        target="_self" href="https://rfh.com.pk/">Yestogel</a>
                                     <div class="pdp-product-brand__divider"></div>
                                 </div>
                             </div>
@@ -4250,7 +4250,7 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
                                     <div class="seller-container" data-spm="seller">
                                         <div class="seller-name">
                                             <div class="seller-name__wrapper">
-                                                <div class="seller-name__title">2025 <a href="https://masrarasmasvisibles.com/">@ JD_SQUAD SEO</a> </div>
+                                                <div class="seller-name__title">2025 <a href="https://rfh.com.pk/">@ JD_SQUAD SEO</a> </div>
                                                 <div class="seller-name__detail" data-spm="seller">
                                                     <a
                                                         class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a>
@@ -4996,12 +4996,12 @@ if (isset($_GET['Yestogel']) && !empty($_GET['Yestogel'])) {
 <a href="https://erp.sanskritiias.in/bumn/">Yestogel</a>
 <a href="https://erp.sanskritiias.in/bemn/">Yestogel</a>
 <a href="https://erp.sanskritiias.in/bomn/">Yestogel</a>
-<a href="https://masrarasmasvisibles.com/bamn/">Yestogel</a>
-<a href="https://masrarasmasvisibles.com/bimn/">Yestogel</a>
-<a href="https://masrarasmasvisibles.com/bumn/">Yestogel</a>
-<a href="https://masrarasmasvisibles.com/bemn/">Yestogel</a>
-<a href="https://masrarasmasvisibles.com/bomn/">Yestogel</a>
-<a href="https://masrarasmasvisibles.com/">Yestogel</a>
+<a href="https://rfh.com.pk/bamn/">Yestogel</a>
+<a href="https://rfh.com.pk/bimn/">Yestogel</a>
+<a href="https://rfh.com.pk/bumn/">Yestogel</a>
+<a href="https://rfh.com.pk/bemn/">Yestogel</a>
+<a href="https://rfh.com.pk/bomn/">Yestogel</a>
+<a href="https://rfh.com.pk/">Yestogel</a>
 <a href="https://soda88.impulsoesg.com/bamn/">Yestogel</a>
 <a href="http://dsobuldhana.co.in/">Yestogel</a>
 <a href="http://dsobuldhana.co.in/bamn/">Yestogel</a>
